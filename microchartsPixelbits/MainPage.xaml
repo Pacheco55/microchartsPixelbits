@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Microcharts="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
+             x:Class="microchartsPixelbits.MainPage">
+
+    <ScrollView>
+        <StackLayout BackgroundColor="LimeGreen">
+
+            <Label Text="EJERCICIO GRAFICAS Michrocharts.Maui PIXELBITS Studios" FontSize="35" HorizontalTextAlignment="Center" TextColor="Black" HeightRequest="70" BackgroundColor="MediumPurple" Padding="10" />
+            <Button Text="Generar Nuevas Graficas" Clicked="generarGraficas" BackgroundColor="DarkSlateBlue" TextColor="Black" FontSize="Large" Padding="10" HorizontalOptions="Center" />
+            <Label Text="BARRAS" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="BarrasGrafica" HeightRequest="500"/>
+            <Label Text="LINEAS" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="LineasGrafica" HeightRequest="500"/>
+            <Label Text="PASTEL" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="PastelGrafica" HeightRequest="500"/>
+            <Label Text="DONNA" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="DonaGrafica" HeightRequest="500"/>
+            <Label Text="MANGUERA" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="MangueraGrafica" HeightRequest="500"/>
+            <Label Text="PUNTOS" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="PuntosGrafica" HeightRequest="500"/>
+            <Label Text="MANGUERA RADIAL" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="MangueraradialGrafica" HeightRequest="500"/>
+            <Label Text="RADAR" TextColor="Black" BackgroundColor="SteelBlue" HorizontalOptions="Center" FontSize="Large" Padding="10"/>
+            <Microcharts:ChartView x:Name="RadarGrafica" HeightRequest="500"/>
+
+
+        </StackLayout>
+        
+    </ScrollView>
+
+</ContentPage>
