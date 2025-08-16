@@ -42,6 +42,8 @@ Visual Studio 2022 (Windows/Mac), .NET 6.0 o superior, SDK de las plataformas ob
 
 #### **Visual Studio Setup**
 
+## **Guía de Uso**
+
 **Paso 1: Instalar Visual Studio 2022**
 [Descarga oficial](https://visualstudio.microsoft.com/)
 
@@ -75,41 +77,38 @@ Integrar las gráficas en las páginas XAML y código behind
 
 ---
 
-## **Guía de Uso**
+Tipos de Gráficas Disponibles
+Esta sección presenta los diferentes tipos de visualizaciones de datos que puedes implementar. Cada gráfica está optimizada para casos de uso específicos y ofrece una experiencia visual única.
+📊 BarChart
+Visualización de datos categóricos mediante barras verticales u horizontales, ideal para comparar valores entre diferentes categorías.
+<img src="https://github.com/user-attachments/assets/bfb10b2f-9ca6-488d-b76c-2de09022e87d" alt="BarChart Example" width="200" height="560">
 
-### **Tipos de Gráficas Disponibles**
+📈 LineChart
+Representación de tendencias y cambios a lo largo del tiempo, perfecta para mostrar evolución de datos temporales.
+<img src="https://github.com/user-attachments/assets/b61641e1-bfa7-4f24-a950-750590d7b1be" alt="LineChart Example" width="200" height="560">
 
-**BarChart**
-Visualización de datos categóricos mediante barras verticales u horizontales.
+🍩 DonutChart
+Visualización de proporciones con área central personalizable, excelente para mostrar distribuciones porcentuales.
+<img src="https://github.com/user-attachments/assets/eb2c1265-fa72-4acd-9064-491e95732909" alt="DonutChart Example" width="200" height="560">
 
-![Image](https://github.com/user-attachments/assets/bfb10b2f-9ca6-488d-b76c-2de09022e87d)
+🎯 RadialGaugeChart
+Indicadores de progreso o métricas específicas, ideal para dashboards y monitoreo de KPIs.
+<img src="https://github.com/user-attachments/assets/cf7270dc-b3bb-4b18-8602-88c8896a453b" alt="RadialGaugeChart Example" width="200" height="560">
 
-**LineChart**
-Representación de tendencias y cambios a lo largo del tiempo.
+🔵 PointChart
+Visualización de datos discretos en un plano, perfecta para análisis de correlación y distribución de puntos.
+<img src="https://github.com/user-attachments/assets/04ea2194-b2c7-4a13-b5df-cffa746974f4" alt="PointChart Example" width="200" height="560">
 
-![Image](https://github.com/user-attachments/assets/b61641e1-bfa7-4f24-a950-750590d7b1be)
+🕸️ RadarChart
+Visualización multidimensional que muestra datos en forma radial desde un punto central, ideal para comparar múltiples variables.
+<img src="https://github.com/user-attachments/assets/14db61f2-3145-40bf-9af0-e09c5090533d" alt="RadarChart Example" width="200" height="560">
 
+🚀 Características Generales
 
-**DonutChart**
-Visualización de proporciones con área central personalizable.
-
-![Image](https://github.com/user-attachments/assets/eb2c1265-fa72-4acd-9064-491e95732909)
-
-**RadialGaugeChart**
-Indicadores de progreso o métricas específicas.
-
-![Image](https://github.com/user-attachments/assets/cf7270dc-b3bb-4b18-8602-88c8896a453b)
-
-
-**PointChart**
-Visualización de datos discretos en un plano.
-
-![Image](https://github.com/user-attachments/assets/04ea2194-b2c7-4a13-b5df-cffa746974f4)
-
-**RadarChart**
-Visualización a manera de equidistancia de un punto 0 .
-
-![Image](https://github.com/user-attachments/assets/14db61f2-3145-40bf-9af0-e09c5090533d)
+Responsive Design: Todas las gráficas se adaptan a diferentes tamaños de pantalla
+Personalización: Colores, estilos y configuraciones completamente customizables
+Rendimiento Optimizado: Renderizado eficiente para grandes volúmenes de datos
+Fácil Integración: API simple y documentación completa
 
 
 ### **Ejemplo de Implementación**
