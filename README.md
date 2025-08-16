@@ -82,17 +82,35 @@ Integrar las gráficas en las páginas XAML y código behind
 **BarChart**
 Visualización de datos categóricos mediante barras verticales u horizontales.
 
+![Image](https://github.com/user-attachments/assets/bfb10b2f-9ca6-488d-b76c-2de09022e87d)
+
 **LineChart**
 Representación de tendencias y cambios a lo largo del tiempo.
+
+![Image](https://github.com/user-attachments/assets/b61641e1-bfa7-4f24-a950-750590d7b1be)
+
 
 **DonutChart**
 Visualización de proporciones con área central personalizable.
 
+![Image](https://github.com/user-attachments/assets/eb2c1265-fa72-4acd-9064-491e95732909)
+
 **RadialGaugeChart**
 Indicadores de progreso o métricas específicas.
 
+![Image](https://github.com/user-attachments/assets/cf7270dc-b3bb-4b18-8602-88c8896a453b)
+
+
 **PointChart**
 Visualización de datos discretos en un plano.
+
+![Image](https://github.com/user-attachments/assets/04ea2194-b2c7-4a13-b5df-cffa746974f4)
+
+**RadarChart**
+Visualización a manera de equidistancia de un punto 0 .
+
+![Image](https://github.com/user-attachments/assets/14db61f2-3145-40bf-9af0-e09c5090533d)
+
 
 ### **Ejemplo de Implementación**
 
