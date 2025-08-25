@@ -1,4 +1,11 @@
-# MicroCharts PixelBits - MAUI Graphics Library Implementation
+<div align="center">
+  <img width="927" height="185" alt="Image 1" src="https://github.com/user-attachments/assets/5da3a3af-8af3-4e51-9b21-89d14d426758" />
+  <img width="1024" height="185" alt="Image 2" src="https://github.com/user-attachments/assets/4bc72cef-d816-49fe-ba8d-78d6b6367424" />
+</div>
+
+
+
+MAUI Graphics Library Implementation
 
 ![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4)
 ![C#](https://img.shields.io/badge/C%23-239120)
@@ -28,6 +35,10 @@ Renderizado eficiente de gráficas con gestión optimizada de memoria y actualiz
 
 **Multiplataforma**
 Funcionalidad completa en todas las plataformas soportadas por .NET MAUI: iOS, Android, macOS y Windows.
+
+<div align="center">
+  <img width="726" height="370" alt="Image" src="https://github.com/user-attachments/assets/0fc53362-eeb2-402c-838c-448220f1ca6c" />
+</div>
 
 ---
 
@@ -77,31 +88,17 @@ Integrar las gráficas en las páginas XAML y código behind
 
 ---
 
-Tipos de Gráficas Disponibles
-Esta sección presenta los diferentes tipos de visualizaciones de datos que puedes implementar. Cada gráfica está optimizada para casos de uso específicos y ofrece una experiencia visual única.
-📊 BarChart
-Visualización de datos categóricos mediante barras verticales u horizontales, ideal para comparar valores entre diferentes categorías.
-<img src="https://github.com/user-attachments/assets/bfb10b2f-9ca6-488d-b76c-2de09022e87d" alt="BarChart Example" width="200" height="560">
+📊 BarChart Visualización de datos categóricos mediante barras verticales u horizontales, ideal para comparar valores entre diferentes categorías. <div align="center"> <img src="https://github.com/user-attachments/assets/bfb10b2f-9ca6-488d-b76c-2de09022e87d" alt="BarChart Example" width="252" height="560"> </div>
 
-📈 LineChart
-Representación de tendencias y cambios a lo largo del tiempo, perfecta para mostrar evolución de datos temporales.
-<img src="https://github.com/user-attachments/assets/b61641e1-bfa7-4f24-a950-750590d7b1be" alt="LineChart Example" width="200" height="560">
+📈 LineChart Representación de tendencias y cambios a lo largo del tiempo, perfecta para mostrar evolución de datos temporales. <div align="center"> <img src="https://github.com/user-attachments/assets/b61641e1-bfa7-4f24-a950-750590d7b1be" alt="LineChart Example" width="171" height="560"> </div>
 
-🍩 DonutChart
-Visualización de proporciones con área central personalizable, excelente para mostrar distribuciones porcentuales.
-<img src="https://github.com/user-attachments/assets/eb2c1265-fa72-4acd-9064-491e95732909" alt="DonutChart Example" width="200" height="560">
+🍩 DonutChart Visualización de proporciones con área central personalizable, excelente para mostrar distribuciones porcentuales. <div align="center"> <img src="https://github.com/user-attachments/assets/eb2c1265-fa72-4acd-9064-491e95732909" alt="DonutChart Example" width="252" height="560"> </div>
 
-🎯 RadialGaugeChart
-Indicadores de progreso o métricas específicas, ideal para dashboards y monitoreo de KPIs.
-<img src="https://github.com/user-attachments/assets/cf7270dc-b3bb-4b18-8602-88c8896a453b" alt="RadialGaugeChart Example" width="200" height="560">
+🎯 RadialGaugeChart Indicadores de progreso o métricas específicas, ideal para dashboards y monitoreo de KPIs. <div align="center"> <img src="https://github.com/user-attachments/assets/cf7270dc-b3bb-4b18-8602-88c8896a453b" alt="RadialGaugeChart Example" width="168" height="560"> </div>
 
-🔵 PointChart
-Visualización de datos discretos en un plano, perfecta para análisis de correlación y distribución de puntos.
-<img src="https://github.com/user-attachments/assets/04ea2194-b2c7-4a13-b5df-cffa746974f4" alt="PointChart Example" width="200" height="560">
+🔵 PointChart Visualización de datos discretos en un plano, perfecta para análisis de correlación y distribución de puntos. <div align="center"> <img src="https://github.com/user-attachments/assets/04ea2194-b2c7-4a13-b5df-cffa746974f4" alt="PointChart Example" width="252" height="560"> </div>
 
-🕸️ RadarChart
-Visualización multidimensional que muestra datos en forma radial desde un punto central, ideal para comparar múltiples variables.
-<img src="https://github.com/user-attachments/assets/14db61f2-3145-40bf-9af0-e09c5090533d" alt="RadarChart Example" width="200" height="560">
+🕸️ RadarChart Visualización multidimensional que muestra datos en forma radial desde un punto central, ideal para comparar múltiples variables. <div align="center"> <img src="https://github.com/user-attachments/assets/14db61f2-3145-40bf-9af0-e09c5090533d" alt="RadarChart Example" width="252" height="560"> </div>
 
 🚀 Características Generales
 
@@ -160,6 +157,11 @@ Optimizar el número de entradas y la frecuencia de actualización.
 Asegurar la configuración correcta de los permisos específicos de plataforma.
 
 ---
+<div align="center">
+<img width="419" height="404" alt="Image" src="https://github.com/user-attachments/assets/ef9bb9d7-6f90-4187-a32a-d15a9195ffc8" />
+</div>
+
+---
 
 ## **Casos de Uso**
 
@@ -174,56 +176,37 @@ Sistemas de monitoreo, telemetría, análisis de sensores.
 
 ---
 
-## **Soporte**
+## 🌐 Contacto
 
-**Reportar Bugs**: Abre un issue en GitHub
+<div align="center">
 
-**Sugerencias**: Discussions en el repositorio
+**PIXELBITS Studios** - *Innovación en tecnología embebida*
 
-**Contacto**: info@pixelbits.studio
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pixelbitstud)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pixelbits_studio/about)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pixelbits.studio)
 
----
-
-## **Créditos**
-
-### **Desarrollo Principal**
-
-**PIXELBITS Studios**
-*Innovación en desarrollo multiplataforma*
-*Especialistas en .NET MAUI y visualización de datos*
-
-### **Lead Developer**
-
-**Pacheco 55**
-*Arquitecto de software y especialista en .NET MAUI*
-*Experto en visualización de datos y UX*
+</div>
 
 ---
 
-## **Licencia**
+## 📜 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para detalles.
 
----
-
-## **¡Apóyanos!**
-
-Si este proyecto te ha sido útil:
-
-Dale una estrella al repositorio, compártelo con otros desarrolladores, déjanos tus comentarios y contribuye al proyecto.
+[![License](https://img.shields.io/badge/Licencia-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
 <div align="center">
 
-### **Hecho con dedicación por PIXELBITS Studios**
+### **Hecho con 👽 por PIXELBITS Studios**
 
-*Transformando datos en historias visuales, un gráfico a la vez.*
+**WiFi Monitor ESP32 - Porque conocer tu entorno es el primer paso hacia la seguridad.**
 
-**[Instagram](https://www.instagram.com/pixelbits_studios/) | [YouTube](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q) | [Twitter](https://x.com/pixelbitstud) | [Twitch](https://www.twitch.tv/pixelbits_studio/about)**
+[![Repository Views](https://komarev.com/ghpvc/?username=pixelbits-opera-num&color=00ff41&style=flat-square&label=Visitas+de+otros+Mundos)](https://github.com/Pacheco55/microchartsPixelbits)
 
----
-
-*MicroCharts PixelBits - Porque los datos cobran vida cuando se visualizan correctamente.*
 
 </div>
+
